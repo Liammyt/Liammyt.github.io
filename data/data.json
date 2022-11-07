@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstName": "Liam",
+        "lastName": "Tugonon"
+    },
+    "work": {
+        "job": "Student",
+        "program": "Digital Design and Development Diploma",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/#overview"
+    },
+    "study": {
+        "programs": ["Test Program, 2Test Program, 3Test Program"],
+        "department": "Test Department"
+    }
+}
